@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ac3b72f-5d6d-4ffa-81bd-4b6a6a1ce24d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cl3YXENYN22pi6T4Y613LlVpHP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/final assignment" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.login">
+    <configuration name="lobby" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final assignment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final assignment/lobby.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final assignment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final assignment/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="registration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final assignment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final assignment/registration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="services" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final assignment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final assignment/services.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tourguid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/final assignment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final assignment/tourguid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.login" />
+        <item itemvalue="Python.registration" />
+        <item itemvalue="Python.lobby" />
+        <item itemvalue="Python.tourguid" />
+        <item itemvalue="Python.services" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ac3b72f-5d6d-4ffa-81bd-4b6a6a1ce24d" name="Default Changelist" comment="" />
+      <created>1591089400648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591089400648</updated>
+      <workItem from="1591089413206" duration="14205000" />
+      <workItem from="1591664017015" duration="20545000" />
+      <workItem from="1591928017359" duration="54000" />
+      <workItem from="1591928208128" duration="30713000" />
+      <workItem from="1592796516308" duration="4722000" />
+      <workItem from="1593066478493" duration="8884000" />
+      <workItem from="1593933229280" duration="21032000" />
+      <workItem from="1594561198248" duration="664000" />
+      <workItem from="1595062425881" duration="8619000" />
+      <workItem from="1595212707238" duration="82072000" />
+      <workItem from="1595901772109" duration="19403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="77" key="#lobby" timestamp="1595143789363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="646" y="77" key="#lobby/0.0.1920.1040@0.0.1920.1040" timestamp="1595143789363" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1596172688161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596172688161" />
+    <state width="1869" height="170" key="GridCell.Tab.0.bottom" timestamp="1596172746849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1485" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594352975986" />
+    <state width="1869" height="170" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596172746849" />
+    <state width="1869" height="170" key="GridCell.Tab.0.center" timestamp="1596172746849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1485" height="170" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594352975986" />
+    <state width="1869" height="170" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596172746849" />
+    <state width="1869" height="170" key="GridCell.Tab.0.left" timestamp="1596172746849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1485" height="170" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594352975986" />
+    <state width="1869" height="170" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596172746849" />
+    <state width="1869" height="170" key="GridCell.Tab.0.right" timestamp="1596172746849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1485" height="170" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594352975986" />
+    <state width="1869" height="170" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596172746849" />
+    <state width="1869" height="334" key="GridCell.Tab.1.bottom" timestamp="1596172746847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596172746847" />
+    <state width="1869" height="334" key="GridCell.Tab.1.center" timestamp="1596172746847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="334" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596172746847" />
+    <state width="1869" height="334" key="GridCell.Tab.1.left" timestamp="1596172746847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="334" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596172746847" />
+    <state width="1869" height="334" key="GridCell.Tab.1.right" timestamp="1596172746847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="334" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596172746847" />
+    <state x="504" y="87" key="SettingsEditor" timestamp="1595216412362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="87" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595216412362" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595901784001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595901784001" />
+    <state x="932" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1595658823554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="932" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595658823554" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/interface/add_items.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/interface/add_items.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled1$services.coverage" NAME="services Coverage Results" MODIFIED="1596096976872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$hash.coverage" NAME="hash Coverage Results" MODIFIED="1593163254135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/lab/file_integrity_check" />
+    <SUITE FILE_PATH="coverage/untitled1$connection__1_.coverage" NAME="connection (1) Coverage Results" MODIFIED="1592736704294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/ES-19-A/classes" />
+    <SUITE FILE_PATH="coverage/untitled1$connection.coverage" NAME="connection Coverage Results" MODIFIED="1592739844474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/untitled1$food.coverage" NAME="food Coverage Results" MODIFIED="1595774890332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$registration.coverage" NAME="registration Coverage Results" MODIFIED="1596172038204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$room_services.coverage" NAME="room services Coverage Results" MODIFIED="1595685386233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$add_item__1_.coverage" NAME="add_item (1) Coverage Results" MODIFIED="1595143551868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaces" />
+    <SUITE FILE_PATH="coverage/untitled1$lobby.coverage" NAME="lobby Coverage Results" MODIFIED="1596171328047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$a.coverage" NAME="a Coverage Results" MODIFIED="1595248665944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$item.coverage" NAME="item Coverage Results" MODIFIED="1592744906816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/untitled1$mainpage.coverage" NAME="mainpage Coverage Results" MODIFIED="1595230417722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$6.coverage" NAME="6 Coverage Results" MODIFIED="1591109528356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$cs.coverage" NAME="cs Coverage Results" MODIFIED="1592271567291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/untitled1$TKinter_June1.coverage" NAME="TKinter_June1 Coverage Results" MODIFIED="1591149056457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/untitled1$room__1_.coverage" NAME="room (1) Coverage Results" MODIFIED="1595738451790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$test.coverage" NAME="test Coverage Results" MODIFIED="1591673749650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Semester 1/computing/assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$room.coverage" NAME="room Coverage Results" MODIFIED="1596096914861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$viw_employee.coverage" NAME="viw_employee Coverage Results" MODIFIED="1594037104603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Semester 1/computing/assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$1.coverage" NAME="1 Coverage Results" MODIFIED="1591107369082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$tourguid.coverage" NAME="tourguid Coverage Results" MODIFIED="1596164759420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$transport.coverage" NAME="transport Coverage Results" MODIFIED="1596082158421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$task.coverage" NAME="task Coverage Results" MODIFIED="1591664649248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/SEM 2/STW122COM-Introduction to Algorithms-M20/ES-19-A/classes" />
+    <SUITE FILE_PATH="coverage/untitled1$add_item.coverage" NAME="add_item Coverage Results" MODIFIED="1595654108379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interfaces" />
+    <SUITE FILE_PATH="coverage/untitled1$add_items.coverage" NAME="add_items Coverage Results" MODIFIED="1592798884336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/untitled1$mod_employee.coverage" NAME="mod_employee Coverage Results" MODIFIED="1594037092645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Semester 1/computing/assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$employee_page.coverage" NAME="employee_page Coverage Results" MODIFIED="1594040251641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Semester 1/computing/assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$file_integrity_check.coverage" NAME="file_integrity_check Coverage Results" MODIFIED="1593141651593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/lab/file_integrity_check" />
+    <SUITE FILE_PATH="coverage/untitled1$new.coverage" NAME="new Coverage Results" MODIFIED="1594037145124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/untitled1$mod_department.coverage" NAME="mod_department Coverage Results" MODIFIED="1594037068874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Semester 1/computing/assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$user_form.coverage" NAME="user_form Coverage Results" MODIFIED="1594037114079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Semester 1/computing/assignment" />
+    <SUITE FILE_PATH="coverage/untitled1$DES_encdec_ECB_pad_.coverage" NAME="DES_encdec_ECB(pad) Coverage Results" MODIFIED="1593748569764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/untitled1$login.coverage" NAME="login Coverage Results" MODIFIED="1596172237175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/final assignment" />
+  </component>
+</project>
